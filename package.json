@@ -1,0 +1,15 @@
+{
+  "name": "mfimport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "csv": "^5.1.1",
+    "dotenv": "^6.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.4.24"
+  }
+}
